@@ -20,7 +20,7 @@ dependencies:
   flutter_riverpod: ^1.0.3
   flutter_svg: ^1.0.3
   google_fonts: ^2.3.1
-  responsive_framework: ^0.1.7
+  responsive_framework: ^0.2.0
   url_launcher: ^6.0.20
 
 dev_dependencies:
